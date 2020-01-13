@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: 'https://res.cloudinary.com/dnoqswixj/image/upload/v1544906358/sample.jpg'
+image: >-
+  https://res.cloudinary.com/dnoqswixj/image/upload/v1549754873/Beauts/beauts-3.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
