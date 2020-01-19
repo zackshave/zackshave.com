@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: >-
-  https://res.cloudinary.com/dnoqswixj/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1544906358/sample.jpg
+  https://res.cloudinary.com/dnoqswixj/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1544906358/sample.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
