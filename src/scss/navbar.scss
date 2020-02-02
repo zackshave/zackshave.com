@@ -1,0 +1,21 @@
+.navbar {
+    background-color: $black;
+    .container {
+        border-bottom: 1px solid $primary;
+    }
+    .navbar-item {
+        color: $primary;
+        font-weight: 400;
+    }
+    .site-title {
+        color: $primary;
+        text-transform: uppercase;
+        &:before {
+            content: ('{;,;}');
+            margin-right: 5px;
+        }
+    }
+    .navbar-burger {
+        color: $primary;
+    } 
+}
