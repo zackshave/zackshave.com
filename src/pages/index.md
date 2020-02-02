@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Welcome to zackshave.com
 image: >-
-  https://res.cloudinary.com/dnoqswixj/image/upload/v1544992107/cindy-sherry/Cindy_s_art_-_44x40_-_Picking_Raspberries_-_FX87901.jpg
+  https://res.cloudinary.com/dnoqswixj/image/upload/v1580676853/zackshave.com/8D615381-586E-482F-B8EF-B23EA641CE54-10986-000005E78ACB47E9.jpg
 heading: Great coffee with a conscience
 subheading: 'front-end web developer, photographer, swag lord '
 mainpitch:
