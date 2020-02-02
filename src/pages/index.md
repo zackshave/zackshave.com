@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: >-
-  https://res.cloudinary.com/dnoqswixj/image/upload/c_fill,e_art:incognito,h_236,w_864/v1544906358/sample.jpg
+  https://res.cloudinary.com/dnoqswixj/image/upload/v1544992107/cindy-sherry/Cindy_s_art_-_44x40_-_Picking_Raspberries_-_FX87901.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
@@ -19,7 +19,8 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: 'https://res.cloudinary.com/dnoqswixj/image/upload/v1544906358/sample.jpg'
+    - image: >-
+        https://res.cloudinary.com/dnoqswixj/image/upload/v1544992106/cindy-sherry/Cindy_s_art_-_30x40_-_White_Knuckles_at_Window_Rock_-_FX87896.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -27,14 +28,14 @@ intro:
         local communities. Check our post or contact us directly for current
         availability.
     - image: >-
-        https://res.cloudinary.com/dnoqswixj/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1544906358/sample.jpg
+        https://res.cloudinary.com/dnoqswixj/image/upload/v1544904001/cindy-sherry/Cindy_s_art-_FX87925-SEP_Edit.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
     - image: >-
-        https://res.cloudinary.com/dnoqswixj/image/upload/e_improve,w_300,h_600,c_thumb,g_auto/v1544906358/sample.jpg
+        https://res.cloudinary.com/dnoqswixj/image/upload/v1544904001/cindy-sherry/Cindy_s_art-_FX87924-SEP_Edit.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -42,7 +43,7 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
     - image: >-
-        https://res.cloudinary.com/dnoqswixj/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1579473341/Screen_Shot_2020-01-12_at_10.16.57_AM.png
+        https://res.cloudinary.com/dnoqswixj/image/upload/v1544903999/cindy-sherry/Cindy_s_art-_FX87922-SEP_Edit.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
