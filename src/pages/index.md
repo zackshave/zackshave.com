@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Welcome to zackshave.com
 image: >-
   https://res.cloudinary.com/dnoqswixj/image/upload/v1544992107/cindy-sherry/Cindy_s_art_-_44x40_-_Picking_Raspberries_-_FX87901.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'front-end web developer, photographer, swag lord '
 mainpitch:
   title: Why Kaldi
   description: >
