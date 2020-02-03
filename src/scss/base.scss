@@ -11,4 +11,10 @@ body {
     color: $body-color;
     font-weight: 200;
     padding-top: 3.25rem;
+    a, button {
+        &:focus {
+            outline: none;
+            box-shadow: 0 0 0 1px $secondary;
+        }
+    }
 }
