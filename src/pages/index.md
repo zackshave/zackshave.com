@@ -20,7 +20,7 @@ description: >-
 intro:
   blurbs:
     - image: >-
-        https://res.cloudinary.com/dnoqswixj/image/upload/v1544992106/cindy-sherry/Cindy_s_art_-_30x40_-_White_Knuckles_at_Window_Rock_-_FX87896.jpg
+        https://res.cloudinary.com/dnoqswixj/image/upload/v1580774250/zackshave.com/javascript.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -28,14 +28,14 @@ intro:
         local communities. Check our post or contact us directly for current
         availability.
     - image: >-
-        https://res.cloudinary.com/dnoqswixj/image/upload/v1544904001/cindy-sherry/Cindy_s_art-_FX87925-SEP_Edit.jpg
+        https://res.cloudinary.com/dnoqswixj/image/upload/c_thumb,w_200,g_face/v1580774241/zackshave.com/css.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
     - image: >-
-        https://res.cloudinary.com/dnoqswixj/image/upload/v1544904001/cindy-sherry/Cindy_s_art-_FX87924-SEP_Edit.jpg
+        https://res.cloudinary.com/dnoqswixj/image/upload/v1580774255/zackshave.com/php.svg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
@@ -43,7 +43,7 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
     - image: >-
-        https://res.cloudinary.com/dnoqswixj/image/upload/v1544903999/cindy-sherry/Cindy_s_art-_FX87922-SEP_Edit.jpg
+        https://res.cloudinary.com/dnoqswixj/image/upload/v1580774262/zackshave.com/shopify.svg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
